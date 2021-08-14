@@ -23,7 +23,7 @@ open index.html
 
 ## Signature Preview
 
-<img src="./preview.png" height="10%" width="30%">
+<img src="./preview.png" height="20%" width="60%">
 
 ## Demo
 
