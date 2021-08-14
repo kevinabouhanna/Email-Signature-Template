@@ -2,18 +2,18 @@
 
 [![email](https://img.shields.io/static/v1.svg?label=Email&message=Signature&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](https://github.com/kevinabouhanna/Email-Signature-Template/) [![outlook](https://img.shields.io/static/v1.svg?label=Outlook&message=Template&color=grey&logo=microsoft-outlook&style=flat&logoColor=white&colorA=dodgerblue)](https://github.com/kevinabouhanna/Email-Signature-Template/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kevinabouhanna/Email-Signature-Template.svg?logo=github&style=flat&colorB=teal)](https://github.com/kevinabouhanna/Email-Signature-Template/)
 
-#### Sometimes, creating an attractive email signature is essential. Here's an eye-catching HTML signature [example](https://kevinabouhanna.github.io/Email-Signature-Template/signature.html) to realize that the signature can be not boring, but eye-catching, elegant and recognizable.
+#### Sometimes, creating an attractive email signature is essential. Here's an eye-catching HTML signature [example](https://kevinabouhanna.github.io/Email-Signature-Template/index.html) to realize that the signature can be not boring, but eye-catching, elegant and recognizable.
 
 ## Usage
 
 Use [this](https://github.com/kevinabouhanna/Email-Signature-Template/) repository to create HTML email signature that is properly designed, attractive and informative. 
 
-Clone [this](https://github.com/kevinabouhanna/Email-Signature-Template/) repository and edit `signature.html` to get your own email signature.
+Clone [this](https://github.com/kevinabouhanna/Email-Signature-Template/) repository and edit `index.html` to get your own email signature.
 
 ```bash
 
 git clone https://github.com/kevinabouhanna/Email-Signature-Template/ 
-open signature.html
+open index.html
 
 ```
 
@@ -27,7 +27,7 @@ open signature.html
 
 ## Demo
 
-Click [here](https://kevinabouhanna.github.io/Email-Signature-Template/signature.html) to view the live demo.
+Click [here](https://kevinabouhanna.github.io/Email-Signature-Template/index.html) to view the live demo.
 
 ## Example
 
