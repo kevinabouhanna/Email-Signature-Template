@@ -55,10 +55,3 @@ Glad to see here! Show some love by [starring](https://github.com/kevinabouhanna
 [![](https://sourcerer.io/fame/kevinabouhanna/kevinabouhanna/Email-Signature-Template/images/0)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_kevinabouhanna)[![](https://sourcerer.io/fame/kevinabouhanna/kevinabouhanna/Email-Signature-Template/images/1)](https://medium.com/@kevinabouhanna)[![](https://sourcerer.io/fame/kevinabouhanna/kevinabouhanna/Email-Signature-Template/images/2)](https://www.linkedin.com/in/kevinabouhanna/)[![](https://sourcerer.io/fame/kevinabouhanna/kevinabouhanna/Email-Signature-Template/images/3)](https://www.linkedin.com/in/kevinabouhanna/)[![](https://sourcerer.io/fame/kevinabouhanna/kevinabouhanna/Email-Signature-Template/images/4)](https://www.linkedin.com/in/kevinabouhanna/)[![](https://sourcerer.io/fame/kevinabouhanna/kevinabouhanna/Email-Signature-Template/images/5)](https://www.linkedin.com/in/kevinabouhanna/)[![](https://sourcerer.io/fame/kevinabouhanna/kevinabouhanna/Email-Signature-Template/images/6)](https://medium.com/@kevinabouhanna)[![](https://sourcerer.io/fame/kevinabouhanna/kevinabouhanna/Email-Signature-Template/images/7)](https://medium.com/@kevinabouhanna)
 
 [![GitHub followers](https://img.shields.io/github/followers/kevinabouhanna.svg?label=Follow%20@kevinabouhanna&style=social)](https://github.com/kevinabouhanna/) [![Twitter Follow](https://img.shields.io/twitter/follow/kevinabouhanna.svg?style=social)](https://twitter.com/kevinabouhanna)
-
-------
-
-<p align="center"><strong><sup>:hugs: <br>Check out my other projects <a href="./PROJECTS.md">here</a>!</sup></strong></p>
-
-------
-
