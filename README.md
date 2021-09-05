@@ -29,10 +29,6 @@ open index.html
 
 Click [here](https://kevinabouhanna.github.io/Email-Signature-Template/index.html) to view the live demo.
 
-## Example
-
-Click [here](https://kevinabouhanna.github.io/Email-Signature-Template) to view a sample email template with this signature.
-
 ## Contributing
 
 [![GitHub issues](https://img.shields.io/github/issues/kevinabouhanna/Email-Signature-Template?logo=github)](https://github.com/kevinabouhanna/Email-Signature-Template/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr/kevinabouhanna/Email-Signature-Template?color=blue&logo=github)
